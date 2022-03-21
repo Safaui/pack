@@ -7,7 +7,7 @@ Fork Deploy is highly recommended
 
 ## اهـلا بـك
 
-[ ! [نشر] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy؟template=https://github.com/Safaui)
+[ ! نشر] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy؟template=https://github.com/Safaui)
 
 
 شكـرا لكـم 
